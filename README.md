@@ -44,6 +44,9 @@ I love building products that people love ❤️
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Testify](https://img.shields.io/badge/Testify-Automation-blue?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API%20Testing-Postman-orange?style=for-the-badge)
+![FVT Testing](https://img.shields.io/badge/FVT-Testing-green?style=for-the-badge)
 
 ---
 

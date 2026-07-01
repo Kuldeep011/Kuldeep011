@@ -65,7 +65,7 @@ I love building products that people love ❤️
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep011&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kuldeep011&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@ I love building products that people love ❤️
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep011&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kuldeep011&layout=compact&theme=tokyonight" />
 </p>
 
 ---

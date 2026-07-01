@@ -67,7 +67,7 @@ I love building products that people love ❤️
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep011&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep011&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---

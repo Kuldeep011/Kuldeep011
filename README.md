@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Vishwakarma</h1>
 
 <p align="center">
-Backend-focused Full Stack Developer from India 🇮🇳 crafting APIs, systems, and web apps 🚀
+Backend-focused Full Stack Developer from India 🇮🇳 crafting APIs, systems, and scalable web apps 🚀
 </p>
 
 <p align="center">
@@ -10,43 +10,79 @@ I love building products that people love ❤️
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on exciting web projects  
-- 🌱 I’m learning advanced system design & cloud tech  
-- 💬 Ask me about Full Stack Development  
-- 📫 Reach me at: yourmail@example.com  
-- 🌐 Portfolio: https://yourportfolio.com  
-- ✍️ Blog: https://yourblog.com  
-
----
-
-### 🧰 Languages and Tools
-
-### 🧰 Languages and Tools
-
-**Frontend:**  
-HTML5 • CSS3 • JavaScript • React • Tailwind CSS • Bootstrap • Next.js  
-
-**Backend:**  
-Python • Django • Django REST Framework • Java • Spring Boot • Go  
-
-**Databases:**  
-MySQL • PostgreSQL • MongoDB • Firebase  
-
-**Tools:**  
-Git • GitHub • Postman • Linux • VS Code • Docker • Cloud (AWS / GCP / Azure) 
+- 🔭 I’m currently working on exciting backend & full-stack projects  
+- 🌱 I’m learning system design, cloud architecture & scalable systems  
+- 💬 Ask me about Backend Development, APIs, and Full Stack Engineering  
+- 📫 Reach me at: **kv990101@gmail.com**  
+- 🌐 Portfolio: https://kuldeep011.github.io/portfolio/  
+- 💼 LinkedIn: https://www.linkedin.com/in/kuldeep-vishwakarma-3658a5214  
 
 ---
 
-### 🔗 Connect with me
+## 🧰 Languages and Tools
 
-- Portfolio: https://kuldeep011.github.io/portfolio/
-- LinkedIn: https://www.linkedin.com/in/kuldeep-vishwakarma-3658a5214
-- Email: kv990101@gmail.com  
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🧰 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🧑‍💻 Powered by
+## 📊 GitHub Stats
 
-Made with ❤️ on :contentReference[oaicite:18]{index=18} → https://github.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 Portfolio: https://kuldeep011.github.io/portfolio/  
+- 💼 LinkedIn: https://www.linkedin.com/in/kuldeep-vishwakarma-3658a5214  
+- 📧 Email: **kv990101@gmail.com**
+
+---
+
+<p align="center">
+🚀 Made with passion | Always building | Always learning
+</p>

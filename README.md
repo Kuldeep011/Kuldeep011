@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Kuldeep Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm Kuldeep Vishwakarma</h1>
 
-<p>
+<p align="center">
 Backend-focused Full Stack Developer crafting APIs, systems, and scalable web apps 🚀
 </p>
 
-<p>
+<p align="center">
 I love building products that people love ❤️
 </p>
 
